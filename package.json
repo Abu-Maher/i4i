@@ -1,0 +1,24 @@
+{
+  "name": "i4i",
+  "version": "1.0.2",
+  "description": "i4i.me it's easy short url service, with API!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmasherYT/i4i.git"
+  },
+  "keywords": [
+    "i4i",
+    "short",
+    "url"
+  ],
+  "author": "abumaher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmasherYT/i4i/issues"
+  },
+  "homepage": "https://github.com/SmasherYT/i4i#readme"
+}
