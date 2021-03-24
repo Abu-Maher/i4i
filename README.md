@@ -1,4 +1,4 @@
-﻿# ⚡ i4i
+# ⚡ i4i
 - i4i An Easy-to-use Free URL Shortner API!
 ## 😏 Some Of Features
 - Json Api
