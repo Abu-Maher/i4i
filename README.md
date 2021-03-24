@@ -1,4 +1,4 @@
-﻿# ⚡ i4i
+# ⚡ i4i
 - i4i An Easy-to-use Free URL Shortner API!
 ## 😏 Some Of Features
 - Json Api
@@ -23,15 +23,14 @@ const i4i = require('i4i')
 **Shorten URL**
 ```js
 const i4i = require('i4i');
-i4i("https://google.com").then(data=>{
-   console.log(data.url); 
-});
-```
+i4i("https://google.com").then(url =>{
+console.log(url);
+});```
 **Shorten with specific slug (custom code)**
 ```js
 const i4i = require('i4i');
-i4i("https://google.com", "google").then(data=>{
-   console.log(data.url); 
+i4i("https://google.com", "google").then(url =>{
+console.log(url)
 });
 ```
 [i4i site !](https://i4i.me)
