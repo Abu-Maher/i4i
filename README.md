@@ -25,7 +25,7 @@ const i4i = require('i4i')
 const i4i = require('i4i');
 i4i("https://google.com").then(url =>{
 console.log(url);
-});```
+});
 **Shorten with specific slug (custom code)**
 ```js
 const i4i = require('i4i');
